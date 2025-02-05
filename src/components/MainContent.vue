@@ -62,4 +62,15 @@ export default {
   flex-wrap: wrap;
   gap: 20px;
 }
+
+@media (max-width: 1200px) {
+  .section-title {
+    position: relative;
+    z-index: auto;
+    top: 2.4%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+}
 </style>
