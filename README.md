@@ -1,24 +1,22 @@
 # testtask-banki
 
-## Project setup
+## Установка зависимостей
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск приложения на локальном сервере
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компиляция и минимизация для продакшена
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Проверка кода и исправление ошибок линтера
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
